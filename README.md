@@ -1,4 +1,4 @@
-# [Deep-Learning-Specialization](https://www.coursera.org/specializations/deep-learning)
+# [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 ### Master Deep Learning, and Break into AI
 ## [Coursera](https://www.coursera.org/)
 
